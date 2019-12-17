@@ -1,7 +1,7 @@
 Graph Convolutional Networks(GCN)
 ====
 
-The Source is  [pygcn](https://github.com/tkipf/pygcn)
+The Source is  [pygcn](https://github.com/tkipf/pygcn) from Thomas Kipf,
 
 Thomas Kipf, [Graph Convolutional Networks](http://tkipf.github.io/graph-convolutional-networks/) (2016)
 
